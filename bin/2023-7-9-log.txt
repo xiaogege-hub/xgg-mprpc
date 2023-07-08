@@ -1,0 +1,6 @@
+0:1:23 =>[info] service_name:FriendServiceRpc
+0:1:23 =>[info] method_name:GetFriendList
+0:1:23 =>[info] RpcProvider start service at ip: 127.0.0.1 port: 6000
+0:4:2 =>[info] service_name:FriendServiceRpc
+0:4:2 =>[info] method_name:GetFriendList
+0:4:2 =>[info] RpcProvider start service at ip: 127.0.0.1 port: 6000
